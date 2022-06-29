@@ -1,2 +1,1 @@
-# pvainaday
-Power Virtual Agent in a day
+# Power Virtual Agent in a day - content repository
